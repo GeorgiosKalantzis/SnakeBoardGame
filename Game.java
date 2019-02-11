@@ -1,7 +1,4 @@
-/* Ονοματεπώνυμο : Γεώργιος Καλαντζής
- * ΑΕΜ: 8818
- * Τηλέφωνο: 6946275377
- * email: gkalantz@ece.auth.gr */
+
 package snakeGame_PartA;
 
 import java.util.*;
