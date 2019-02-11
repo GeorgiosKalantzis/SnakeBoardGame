@@ -1,4 +1,4 @@
-package snakeGame_PartA;
+
 
 public class Apple {
 	int appleId;
