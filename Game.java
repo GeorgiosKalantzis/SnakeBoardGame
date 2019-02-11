@@ -1,6 +1,3 @@
-
-package snakeGame_PartA;
-
 import java.util.*;
 import java.lang.Math;
 
