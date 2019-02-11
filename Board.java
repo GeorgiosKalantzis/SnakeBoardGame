@@ -1,4 +1,4 @@
-package snakeGame_PartA;
+
 
 public class Board {
 	int N, M;
