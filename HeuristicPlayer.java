@@ -1,5 +1,3 @@
-package snakeGame_PartA;
-
 import java.util.ArrayList;
 
 public class HeuristicPlayer extends Player {
