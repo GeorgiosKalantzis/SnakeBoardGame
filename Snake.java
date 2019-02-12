@@ -1,5 +1,3 @@
-package snakeGame_PartA;
-
 public class Snake {
 	int snakeId;
 	int headId;
