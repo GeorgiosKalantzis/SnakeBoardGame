@@ -1,5 +1,3 @@
-package snakeGame_PartA;
-
 public class Player {
 	int playerId;
 	String name;
