@@ -1,5 +1,3 @@
-package snakeGame_PartA;
-
 public class Ladder {
 	int ladderId;
 	int upStepId;
